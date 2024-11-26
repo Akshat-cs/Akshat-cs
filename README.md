@@ -3,10 +3,7 @@
 - 🔭 I’m currently working on Blockchain technology💲
 - 👯 I’m looking to collaborate on cool Web3 projects.
 - 📫 How to reach me: **akshatmeena368@gmail.com**
-  <br>
-<br>
-<a href="https://x.com/akshatmeena368">![@akshatmeena368 on twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/akshat-meena20/">![akshat-meena20 on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&color=green&lines=Hey+👋,+I'm+Akshat)
 ![](https://komarev.com/ghpvc/?username=akshat-cs&color=blueviolet&style=flat)
