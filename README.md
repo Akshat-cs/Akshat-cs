@@ -1,11 +1,9 @@
-### Hello People 👋 Welcome to my Github World
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&color=green&lines=Hey+👋,+I'm+Akshat)
 
 - 🔭 I’m currently working on Blockchain technology💲
 - 👯 I’m looking to collaborate on cool Web3 projects.
 - 📫 How to reach me: **akshatmeena368@gmail.com**
 
-
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&color=green&lines=Hey+👋,+I'm+Akshat)
 ![](https://komarev.com/ghpvc/?username=akshat-cs&color=blueviolet&style=flat)
  
 <h3 align="left">Connect with me:</h3>
