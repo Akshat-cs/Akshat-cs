@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on Blockchain technology💲
 - 👯 I’m looking to collaborate on cool Web3 projects.
+- 🏫 I completed my Bachelors in Computer Science from IIT Kanpur in June, 2024
 - 📫 How to reach me: **akshatmeena368@gmail.com**
 
 ![](https://komarev.com/ghpvc/?username=akshat-cs&color=blueviolet&style=flat)
