@@ -1,14 +1,9 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+### Hello People 👋 Welcome to my Github World
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat-cs&label=Profile%20views&color=0e75b6&style=flat" alt="akshat-cs" /> </p>
-
-- 🔭 I’m currently working on **on Blockchain technology💲**
-
-- 🌱 I’m currently learning **Account Abstraction and Metamask Snaps**
-
-- 👯 I’m looking to collaborate on **cool Web3 projects**
-
-- 📫 How to reach me **akshatmeena368@gmail.com**
+- 🔭 I’m currently working on Blockchain technology💲
+- 👯 I’m looking to collaborate on cool Web3 projects.
+- 📫 How to reach me: **akshatmeena368@gmail.com** , 
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&color=green&lines=Hey+👋,+I'm+Akshat)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
